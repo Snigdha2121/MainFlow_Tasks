@@ -4,7 +4,7 @@ This repository contains all my tasks during my internship at MainFlow.
 
 ## Tasks
 
-### [Task 1: Basic Data Types in Python](tasks/task1/description.md)
+### [Task 1: Basic Data Types in Python](Mainflow_Task1.ipynb)
 **Description:**
 This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
 
@@ -12,7 +12,7 @@ This task involves understanding the basic data types in Python such as lists, d
 - Write a Python program to create a list, a dictionary, and a set.
 - Perform basic operations like adding, removing, and modifying elements.
 
-### [Task 2: Data Manipulation with Pandas](tasks/task2/description.md)
+### [Task 2: Data Manipulation with Pandas](Mainflow_Task2.ipynb)
 **Description:**
 This task involves using the Pandas library to manipulate data.
 
