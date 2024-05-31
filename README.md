@@ -12,7 +12,7 @@ This task involves understanding the basic data types in Python such as lists, d
 - Write a Python program to create a list, a dictionary, and a set.
 - Perform basic operations like adding, removing, and modifying elements.
 
-### [Task 2: Data Manipulation with Pandas](Mainflow_Task2.ipynb)
+### [Task 2: Data Manipulation with Pandas](MainFlow_Task2.ipynb)
 **Description:**
 This task involves using the Pandas library to manipulate data.
 
