@@ -27,3 +27,12 @@ This task involves using the Matplotlib library to visualize data.
 **Responsibility:**
 - Create scatter plots, line charts, bar charts, and histograms to visualize data from Pandas DataFrames.
 - Customize the charts with labels, titles, and legends.
+
+### [Task 4: Exploratory Data Analysis](Task4/MainFlow_Task4.ipynb)
+**Description:**
+This task involves performing exploratory data analysis on a dataset.
+
+**Responsibility:**
+- Create visualizations to understand the distribution of variables.
+- Identify outliers in the dataset.
+- Check for correlations between variables.
