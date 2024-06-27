@@ -36,3 +36,12 @@ This task involves performing exploratory data analysis on a dataset.
 - Create visualizations to understand the distribution of variables.
 - Identify outliers in the dataset.
 - Check for correlations between variables.
+
+### [Task 5: Feature Engineering and Selection](Task5/MainFlow_Task5.ipynb)
+**Description:**
+This task involves performing Feature Engineering and Selection on a dataset.
+
+**Responsibility:**
+- Generate meaningful features from existing data.
+- Use techniques like PCA or feature importance to select the most important features.
+- Optimize feature sets for improved model performance.
