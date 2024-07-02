@@ -45,3 +45,12 @@ This task involves performing Feature Engineering and Selection on a dataset.
 - Generate meaningful features from existing data.
 - Use techniques like PCA or feature importance to select the most important features.
 - Optimize feature sets for improved model performance.
+
+### [Task 6: Advanced Statistical and Analytical Methods](Task6/MainFlow_Task6.ipynb)
+**Description:**
+Apply advanced statistical and analytical methods to solve complex problems.
+
+**Responsibility:**
+- Implement time series analysis for forecasting trends and seasonality.
+- Perform sentiment analysis or text mining on unstructured data.
+- Explore clustering or classification techniques for segmentation and pattern recognition.
