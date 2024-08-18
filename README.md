@@ -1,6 +1,6 @@
 # MainFlow_Tasks
 
-This repository contains all my tasks during my internship at MainFlow.
+This repository contains all my tasks during my internship at MainFlow Services and Technologies.
 
 ## Tasks
 
